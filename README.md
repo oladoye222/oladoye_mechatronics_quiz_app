@@ -1,4 +1,4 @@
-# Mechatronics Skills Challenge
+# Mechatronics quiz app
 
 ## Project Overview
 
