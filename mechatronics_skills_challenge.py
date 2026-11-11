@@ -1,4 +1,4 @@
-# MECHATRONICS SKILLS CHALLENGE
+# MECHATRONICS quiz app 
 # A simple Python quiz app for Mechatronics Engineering students.
 
 import random
